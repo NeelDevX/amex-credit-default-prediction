@@ -1,10 +1,10 @@
-# 🧠 Amex Credit Default Prediction
+# Amex Credit Default Prediction
 
 End-to-end **Machine Learning project** on American Express credit default prediction — featuring memory-efficient data loading, advanced feature engineering, and model development using **XGBoost** and **LightGBM**.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project predicts the **probability of customer credit default** using the **American Express (Amex) dataset**.  
 It demonstrates the complete lifecycle of an ML project — from large-scale data preprocessing to feature engineering and model training — optimized for handling millions of records efficiently.
@@ -19,7 +19,7 @@ It demonstrates the complete lifecycle of an ML project — from large-scale dat
 
 ---
 
-## 🧩 Dataset
+## Dataset
 
 - **Source:** [American Express Default Prediction Dataset (Kaggle)](https://www.kaggle.com/competitions/amex-default-prediction)
 - **Files used:**
